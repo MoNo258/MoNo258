@@ -1,6 +1,6 @@
 # Hi, my name is **Monika** <br /> I am Junior Web Developer :)
 
-**Checkout my [Portfolio](https://mono258.github.io/Portfolio) to see my work!**
+**Check out my [Portfolio](https://mono258.github.io/Portfolio) to see my work!**
 <br />
 *`Project is still in progress...`*
 
