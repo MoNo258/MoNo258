@@ -6,7 +6,7 @@
 
 ## [Portfolio link](https://mono258.github.io/Portfolio)
 
-![screenshot](https://github.com/MoNo258/MoNo258/raw/master/src/assets/portfolio.jpg "Portfolio screenshot")
+![screenshot](https://github.com/MoNo258/MoNo258/raw/master/src/assets/portfolio2.jpg "Portfolio screenshot")
 
 
 
