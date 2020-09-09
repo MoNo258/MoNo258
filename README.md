@@ -17,10 +17,10 @@
 ## My main projects
 
 <a href="https://mono258.github.io/Exchange_Rates_Board-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=Exchange_Rates_Board-project&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=Exchange_Rates_Board-project&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE" />
 </a>
 <a href="https://mono258.github.io/Share_because_you_care">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=Share_because_you_care&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE" />
+  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=Share_because_you_care&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE" />
 </a>
 
 
