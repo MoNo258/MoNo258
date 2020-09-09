@@ -4,7 +4,7 @@
 
 ## **Check out my [Portfolio](https://mono258-portfolio.herokuapp.com/) to see my work!**
 
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=portfolio&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE)](https://mono258-portfolio.herokuapp.com/)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=mono258&repo=portfolio&show_owner=true&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE)](https://mono258-portfolio.herokuapp.com/)
 <br />
 
 ## My GitHub stats
