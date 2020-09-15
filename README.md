@@ -14,6 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono258&layout=compact&title_color=309638&icon_color=309638&bg_color=333333&text_color=AEAEAE)](https://github.com/MoNo258/Portfolio)
 <br />
 
+<p align="left"> 
+<img height="25px" src="https://komarev.com/ghpvc/?username=mono258&color=309638&style=plastic&label=MoNo258+profile+views" 
+alt="mono258" /> </p>
+
+
 ## My main projects
 
 <a href="https://mono258.github.io/Exchange_Rates_Board-project">
